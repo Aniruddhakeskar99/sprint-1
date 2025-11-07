@@ -1,4 +1,4 @@
-ONLINE BOOK STORE
+<h2><b>ONLINE BOOK STORE</b></h2>
 
 - User Login Credentials: (shashi/shashi)
 - Admin Login Credentials: (Admin/Admin)
